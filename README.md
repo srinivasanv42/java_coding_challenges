@@ -88,8 +88,8 @@ Feel free to fork this repository and contribute! Here’s how:
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [babunrnr5@gmail.com](mailto:babunrnr5@gmail.com)
-- **GitHub**: [babureddynr](https://github.com/babureddynr)
+- **Email**: [nvsrinivasa2004@gmail.com](mailto:nvsrinivasa2004@gmail.com)
+- **GitHub**: [srinivasanv](https://github.com/nvsrinivasa)
 
 ---
 
